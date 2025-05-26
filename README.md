@@ -108,7 +108,9 @@ I'm a highly skilled **Data Engineer** with **3+ years** of experience building 
 
 **Visit my GitHub profile to explore my data engineering projects, analytics pipelines, and machine learning implementations!**
 
+<div align="center">
 [![GitHub Profile](https://img.shields.io/badge/🔗_Visit_My_GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SachinLoddiyaKarthik)
+</div>
 
 **Featured Project Categories:**  
 

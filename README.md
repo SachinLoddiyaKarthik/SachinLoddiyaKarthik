@@ -5,7 +5,7 @@
 🎓 **Data Science Graduate @ Western Michigan University** | 💼 **Data Engineer** | 🚀 **Cloud & Analytics Enthusiast**
 
 [![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Visit-orange?style=for-the-badge)](https://sachinloddiyakarthik.github.io/Portfolio-SLK) 
-[![Resume](https://img.shields.io/badge/📄_Resume-Download-blue?style=for-the-badge)](https://github.com/SachinLoddiyaKarthik/Portfolio-SLK/blob/main/assets/Sachin_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-Download-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://raw.githubusercontent.com/SachinLoddiyaKarthik/Portfolio-SLK/main/assets/Sachin_Resume.pdf)
 
 </div>
 

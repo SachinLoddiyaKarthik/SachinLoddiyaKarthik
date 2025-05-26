@@ -132,7 +132,7 @@ I'm a highly skilled **Data Engineer** with **3+ years** of experience building 
 
 📧 **Email:** [sachinlkece@gmail.com](mailto:sachinlkece@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-loddiya-karthik/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sachin-loddiya-karthik/](https://www.linkedin.com/in/sachin-lk/))
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-badge&logo=github&logoColor=white)](https://sachinloddiyakarthik.github.io/Portfolio-SLK/)
 [![Resume](https://img.shields.io/badge/Resume-Download-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://raw.githubusercontent.com/SachinLoddiyaKarthik/Portfolio-SLK/main/assets/Sachin_Resume.pdf)
 

@@ -159,10 +159,12 @@ Deep learning-based NLP pipeline using BiLSTM and GloVe embeddings to classify t
 ## 📫 Connect with Me
 
 - 📧 Email: sachinlkece@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sachin-lk/)  
-- 🌐 [Portfolio Website](https://sachinloddiyakarthik.github.io/Portfolio-SLK)  
-- 📄 [Resume (PDF)](https://github.com/SachinLoddiyaKarthik/Portfolio-SLK/blob/main/assets/Sachin_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sachin-loddiya-karthik/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=github)](https://sachinloddiyakarthik.github.io/Portfolio-SLK/)
 
+## 📄 Resume
+
+[![Download Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=read-the-docs)](https://raw.githubusercontent.com/SachinLoddiyaKarthik/Portfolio-SLK/main/assets/Sachin_Resume.pdf)
 ---
 
 ## 📊 GitHub Stats

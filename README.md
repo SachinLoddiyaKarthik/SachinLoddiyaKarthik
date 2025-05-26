@@ -44,31 +44,43 @@ I'm a highly skilled **Data Engineer** with **3+ years** of experience building 
   
   <!-- Cloud Platforms -->
   <tr>
-    <td><strong>☁️ Cloud Platforms</strong></td>
-    <td>
-      <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-        <!-- Azure -->
-        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure"/>
-        <img src="https://img.shields.io/badge/Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Data Factory"/>
-        <img src="https://img.shields.io/badge/Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Synapse"/>
-        <img src="https://img.shields.io/badge/DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white" alt="DevOps"/>
-        
-        <!-- AWS -->
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS"/>
-        <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="EC2"/>
-        <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="S3"/>
-        <img src="https://img.shields.io/badge/Glue-F58536?style=flat-square&logo=amazonaws&logoColor=white" alt="Glue"/>
-        <img src="https://img.shields.io/badge/Athena-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="Athena"/>
-        <img src="https://img.shields.io/badge/Redshift-8C1C13?style=flat-square&logo=amazonredshift&logoColor=white" alt="Redshift"/>
-        
-        <!-- GCP -->
-        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP"/>
-        <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white" alt="BigQuery"/>
-        <img src="https://img.shields.io/badge/Pub/Sub-34A853?style=flat-square&logo=googlecloud&logoColor=white" alt="Pub/Sub"/>
-        <img src="https://img.shields.io/badge/Dataflow-FF6D01?style=flat-square&logo=googlecloud&logoColor=white" alt="Dataflow"/>
-      </div>
-    </td>
-  </tr>
+ <td><strong>☁️ Cloud Platforms</strong></td>
+ <td>
+   <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+     <!-- Azure -->
+     <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline';" />
+     <span style="display:none; background:#0078D4; color:white; padding:2px 6px; border-radius:3px; font-size:11px;">Azure</span>
+     <img src="https://img.shields.io/badge/Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Data Factory" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline';" />
+     <span style="display:none; background:#0078D4; color:white; padding:2px 6px; border-radius:3px; font-size:11px;">Data Factory</span>
+     <img src="https://img.shields.io/badge/Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Synapse" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline';" />
+     <span style="display:none; background:#0078D4; color:white; padding:2px 6px; border-radius:3px; font-size:11px;">Synapse</span>
+     <img src="https://img.shields.io/badge/DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white" alt="DevOps" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline';" />
+     <span style="display:none; background:#0078D4; color:white; padding:2px 6px; border-radius:3px; font-size:11px;">DevOps</span>
+     <!-- AWS -->
+     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline';" />
+     <span style="display:none; background:#232F3E; color:white; padding:2px 6px; border-radius:3px; font-size:11px;">AWS</span>
+     <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="EC2" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline';" />
+     <span style="display:none; background:#FF9900; color:white; padding:2px 6px; border-radius:3px; font-size:11px;">EC2</span>
+     <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="S3" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline';" />
+     <span style="display:none; background:#569A31; color:white; padding:2px 6px; border-radius:3px; font-size:11px;">S3</span>
+     <img src="https://img.shields.io/badge/Glue-F58536?style=flat-square&logo=amazonaws&logoColor=white" alt="Glue" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline';" />
+     <span style="display:none; background:#F58536; color:white; padding:2px 6px; border-radius:3px; font-size:11px;">Glue</span>
+     <img src="https://img.shields.io/badge/Athena-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="Athena" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline';" />
+     <span style="display:none; background:#232F3E; color:white; padding:2px 6px; border-radius:3px; font-size:11px;">Athena</span>
+     <img src="https://img.shields.io/badge/Redshift-8C1C13?style=flat-square&logo=amazonredshift&logoColor=white" alt="Redshift" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline';" />
+     <span style="display:none; background:#8C1C13; color:white; padding:2px 6px; border-radius:3px; font-size:11px;">Redshift</span>
+     <!-- GCP -->
+     <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline';" />
+     <span style="display:none; background:#4285F4; color:white; padding:2px 6px; border-radius:3px; font-size:11px;">GCP</span>
+     <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white" alt="BigQuery" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline';" />
+     <span style="display:none; background:#669DF6; color:white; padding:2px 6px; border-radius:3px; font-size:11px;">BigQuery</span>
+     <img src="https://img.shields.io/badge/Pub%2FSub-34A853?style=flat-square&logo=googlecloud&logoColor=white" alt="Pub/Sub" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline';" />
+     <span style="display:none; background:#34A853; color:white; padding:2px 6px; border-radius:3px; font-size:11px;">Pub/Sub</span>
+     <img src="https://img.shields.io/badge/Dataflow-FF6D01?style=flat-square&logo=googlecloud&logoColor=white" alt="Dataflow" onerror="this.style.display='none'; this.nextElementSibling.style.display='inline';" />
+     <span style="display:none; background:#FF6D01; color:white; padding:2px 6px; border-radius:3px; font-size:11px;">Dataflow</span>
+   </div>
+ </td>
+</tr>
 
   <!-- Programming -->
   <tr>

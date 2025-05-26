@@ -15,7 +15,6 @@
 
 I'm a highly skilled **Data Engineer** with **3+ years** of experience building scalable data pipelines, optimizing ETL workflows, and designing real-time analytics platforms. Passionate about transforming complex data into business insights using **PySpark**, **SQL**, and cloud-native tools like **Azure** and **AWS**.
 
-<div align="center">
 
 🔧 **Strong background in big data, cloud engineering, and lakehouse architectures**
 
@@ -25,7 +24,6 @@ I'm a highly skilled **Data Engineer** with **3+ years** of experience building 
 
 📍 **Open to relocation and full-time opportunities in Data Engineering, Analytics, and ML Engineering**
 
-</div>
 
 ---
 ## 🚀 Technical Skills

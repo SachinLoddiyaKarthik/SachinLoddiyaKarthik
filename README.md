@@ -106,50 +106,23 @@ I'm a highly skilled **Data Engineer** with **3+ years** of experience building 
 
 ---
 
-## 🚀 Project Highlights
+## 🚀 Explore My Work
 
-### 📌 Netflix Data Engineering
-**Feb 2025 - Mar 2025**
+<div align="center">
 
-Built a layered data pipeline using ADF, Databricks, and Delta Lake with real-time streaming and batch processing for Netflix analytics. Integrated Power BI dashboards via Synapse.
+### 💼 Want to see my projects in action?
 
-**Tech Stack:** `ADF` • `Databricks` • `DLT` • `PySpark` • `SQL` • `Power BI`
+**Visit my GitHub profile to explore my data engineering projects, analytics pipelines, and machine learning implementations!**
 
----
+[![GitHub Profile](https://img.shields.io/badge/🔗_Visit_My_GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SachinLoddiyaKarthik)
 
-### 📌 Tokyo Olympics Analytics Pipeline
-**Mar 2025 - Apr 2025**
+**Featured Project Categories:**
+- 🏗️ **Data Engineering Pipelines** • Real-time & Batch Processing
+- 📊 **Analytics Dashboards** • Interactive Visualizations & Insights  
+- 🤖 **Machine Learning Models** • NLP, Deep Learning & Predictive Analytics
+- ☁️ **Cloud Solutions** • Azure, AWS & GCP Implementations
 
-Processed 500K+ records using PySpark and Synapse for real-time country-wise Olympic analytics and medal trends.
-
-**Tech Stack:** `ADF` • `Data Lake Gen2` • `Databricks` • `PySpark` • `Power BI`
-
----
-
-### 📌 Covid-19 Data Engineering
-**Jun 2024 - Jul 2024**
-
-Built metadata-driven pipelines with ADF & Kafka for real-time ingestion and transformation of COVID-19 streams.
-
-**Tech Stack:** `ADF` • `Databricks` • `Apache Kafka` • `Azure Monitor` • `CI/CD`
-
----
-
-### 📌 F1 Data Analytics
-**May 2024 - Jun 2024**
-
-Used Ergast API, PySpark, and Synapse for fast, reliable ETL pipelines and trend visualizations in the world of F1 racing.
-
-**Tech Stack:** `Azure Synapse` • `Databricks` • `SparkSQL` • `Power BI`
-
----
-
-### 📌 Twitter Sentiment Analysis
-**Nov 2023 - Dec 2023**
-
-Deep learning-based NLP pipeline using BiLSTM and GloVe embeddings to classify tweets and generate sentiment-based insights.
-
-**Tech Stack:** `Python` • `PyTorch` • `NLP` • `Deep Learning`
+</div>
 
 ---
 

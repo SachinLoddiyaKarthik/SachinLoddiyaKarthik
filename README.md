@@ -156,6 +156,4 @@ I'm a highly skilled **Data Engineer** with **3+ years** of experience building 
 
 ### 💡 Let's collaborate on impactful data-driven projects and push boundaries together!
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=SachinLoddiyaKarthik.SachinLoddiyaKarthik)
-
 </div>

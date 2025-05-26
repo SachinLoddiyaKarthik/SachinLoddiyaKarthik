@@ -1,79 +1,87 @@
 # Hi there 👋 I'm Sachin Loddiya Karthik
 
-📈 **Data Engineer | Cloud Data Architect | AI Enthusiast**
+![Profile Views](https://komarev.com/ghpvc/?username=SachinLoddiyaKarthik)
 
----
-
-### 👨‍🎓 MS in Data Science @ Western Michigan University  
-### 💼 3+ Years Experience in Data Engineering across USA & India
+🎓 MS in Data Science @ Western Michigan University | 💼 Data Engineer | 🚀 Cloud & Analytics Enthusiast  
+🌍 [Portfolio Website](https://sachinloddiyakarthik.github.io/Portfolio-SLK) | 📄 [Resume](https://github.com/SachinLoddiyaKarthik/Portfolio-SLK/blob/main/assets/Sachin_Resume.pdf)
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Data Engineer** with over 3 years of experience building robust data pipelines, optimizing ETL workflows, and delivering real-time analytics solutions. I love transforming messy raw data into elegant, actionable insights.
+I'm a highly skilled Data Engineer with 3+ years of experience building scalable data pipelines, optimizing ETL workflows, and designing real-time analytics platforms. Passionate about transforming complex data into business insights using PySpark, SQL, and cloud-native tools like Azure and AWS.
 
-Currently wrapping up my Master’s in Data Science, I’ve led projects across education, sustainability, sports analytics, and social media NLP. Whether it's building AI-enabled platforms or solving scheduling problems with constraint programming, I enjoy working at the intersection of **data, software, and optimization**.
-
-🌟 **Actively seeking full-time roles** in Data Engineering, Analytics Engineering, or Cloud Data Solutions!
-
----
-
-## 🚀 Technical Skills
-
-| Category              | Technologies |
-|-----------------------|--------------|
-| **Languages**         | Python, SQL, R, Java, C/C++, HTML, CSS, JavaScript |
-| **Data Engineering**  | Apache Spark, PySpark, Airflow, Kafka, Databricks, Docker |
-| **Cloud Platforms**   | Azure (Data Factory, Synapse, DevOps), AWS (EC2, S3, Glue, Redshift), GCP (BigQuery, Dataflow) |
-| **Databases**         | Azure SQL, Oracle SQL, PostgreSQL, MySQL, MS SQL Server |
-| **Visualization**     | Power BI, Tableau |
-| **Machine Learning**  | Scikit-learn, TensorFlow, PyTorch, OpenCV |
-| **Statistical Tools** | ANOVA, Regression, Hypothesis Testing |
-| **Tools & IDEs**      | VS Code, Jupyter, PyCharm, R Studio, Git, Streamlit |
+- 🔧 Strong background in big data, cloud engineering, and lakehouse architectures.
+- 📊 Proficient in building dashboards and real-time analytics with Power BI and Azure Synapse.
+- 🧠 Enthusiastic about deep learning, NLP, and applying ML to real-world data problems.
+- 📍 Open to relocation and full-time opportunities in Data Engineering, Analytics, and ML Engineering.
 
 ---
 
-## 📌 Project Highlights
+## 🛠️ Technical Skills
 
-### 📊 **COVID-19 Data Engineering** (Jun 2024 – Jul 2024)
-- Built real-time data pipelines using Azure Data Factory and Kafka to ingest and process COVID-19 streams, boosting efficiency by 30% and prediction accuracy.
-- Designed metadata-driven pipelines for batch + streaming sources, cutting development time by 25%.
-- Integrated CI/CD with Azure DevOps and Azure Monitor, reducing release cycles by 35% and downtime by 20%.  
-**Tools:** ADF, Databricks, Kafka, Azure DevOps, Power BI, PySpark, SQL, Delta Lake
+- **Programming**: Python, SQL, R, Java, C++, JavaScript  
+- **Data Engineering**: Azure Data Factory, Azure Synapse, Apache Spark, Apache Kafka, Databricks, Airflow, Delta Lake  
+- **Cloud Platforms**: Azure, AWS (EC2, S3, Redshift, Glue), GCP (BigQuery, Pub/Sub)  
+- **Visualization**: Power BI, Tableau, Streamlit  
+- **Databases**: MySQL, Azure SQL, Oracle SQL, PostgreSQL, SQL Server  
+- **ML & Libraries**: Pandas, NumPy, Scikit-Learn, PyTorch, TensorFlow  
+- **Tools**: Git, Docker, Azure DevOps, Jupyter, VS Code, WinSCP  
 
-### 🏎️ **F1 Data Analytics** (May 2024 – Jun 2024)
-- Built ETL pipelines with Azure Synapse + Ergast API using PySpark for high-performance data processing.
-- Implemented schema enforcement, DQ checks, and Azure Monitor for production-grade analytics.  
-**Tools:** Azure Synapse, Databricks, Power BI, PySpark, SparkSQL
+---
 
-### 🐦 **Twitter Sentiment Analysis** (Nov 2023 – Dec 2023)
-- Built an NLP pipeline with BiLSTM + GloVe embeddings to classify tweet sentiments.
-- Added word clouds, NER, and evaluation metrics for deeper insights and transparency.  
-**Tools:** Python, NLP, PyTorch, Deep Learning
+## 🚀 Project Highlights
 
-### 🎬 **Netflix Data Engineering** (Feb 2025 – Mar 2025)
-- Developed layered data pipeline using ADF + Databricks + Delta Live Tables.
-- Implemented Bronze-Silver-Gold architecture and star schema for fast analytics.
-- Delivered Power BI dashboards powered by Synapse with secure Azure AD access.  
-**Tools:** ADF, Databricks, Delta Lake, Synapse, PySpark, Power BI
+### 📌 [Netflix Data Engineering](#)
+Feb 2025 - Mar 2025  
+Built a layered data pipeline using ADF, Databricks, and Delta Lake with real-time streaming and batch processing for Netflix analytics. Integrated Power BI dashboards via Synapse.  
+**Tech**: ADF, Databricks, DLT, PySpark, SQL, Power BI
 
-### 🏅 **Tokyo Olympics Analytics** (Mar 2025 – Apr 2025)
-- Built scalable pipeline to process 500K+ athlete and medal records via ADF + PySpark.
-- Achieved 60% faster transformation for real-time country/event/medal insights.
-- Delivered interactive Power BI dashboards with deep visual storytelling.  
-**Tools:** ADF, Data Lake Gen2, Databricks, PySpark, Synapse, Power BI
+---
+
+### 📌 [Tokyo Olympics Analytics Pipeline](#)
+Mar 2025 - Apr 2025  
+Processed 500K+ records using PySpark and Synapse for real-time country-wise Olympic analytics and medal trends.  
+**Tech**: ADF, Data Lake Gen2, Databricks, PySpark, Power BI
+
+---
+
+### 📌 [Covid-19 Data Engineering](#)
+Jun 2024 - Jul 2024  
+Built metadata-driven pipelines with ADF & Kafka for real-time ingestion and transformation of COVID-19 streams.  
+**Tech**: ADF, Databricks, Apache Kafka, Azure Monitor, CI/CD
+
+---
+
+### 📌 [F1 Data Analytics](#)
+May 2024 - Jun 2024  
+Used Ergast API, PySpark, and Synapse for fast, reliable ETL pipelines and trend visualizations in the world of F1 racing.  
+**Tech**: Azure Synapse, Databricks, SparkSQL, Power BI
+
+---
+
+### 📌 [Twitter Sentiment Analysis](#)
+Nov 2023 - Dec 2023  
+Deep learning-based NLP pipeline using BiLSTM and GloVe embeddings to classify tweets and generate sentiment-based insights.  
+**Tech**: Python, PyTorch, NLP, Deep Learning
 
 ---
 
 ## 📫 Connect with Me
 
-- 🔗 **Portfolio:** [sachinloddiyakarthik.github.io/Portfolio-SLK](https://sachinloddiyakarthik.github.io/Portfolio-SLK/)
-- 💼 **LinkedIn:** [linkedin.com/in/sachin-lk](https://linkedin.com/in/sachin-lk)
-- 📧 **Email:** [sachinlkece@gmail.com](mailto:sachinlkece@gmail.com)
-- 📁 **Resume:** Available upon request  
-- 🤝 Open to collaboration on real-world data projects, hackathons, and research initiatives
+- 📧 Email: sachinlkece@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sachin-lk/)  
+- 🌐 [Portfolio Website](https://sachinloddiyakarthik.github.io/Portfolio-SLK)  
+- 📄 [Resume (PDF)](https://github.com/SachinLoddiyaKarthik/Portfolio-SLK/blob/main/assets/Sachin_Resume.pdf)
 
 ---
 
-💡 *Let’s transform data into insights, and insights into impact!*
+## 📊 GitHub Stats
+
+![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SachinLoddiyaKarthik&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinLoddiyaKarthik&layout=compact&theme=radical)
+
+---
+
+💡 Let's collaborate on impactful data-driven projects and push boundaries together!

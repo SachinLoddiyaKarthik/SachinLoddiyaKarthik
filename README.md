@@ -44,28 +44,34 @@ I'm a highly skilled **Data Engineer** with **3+ years** of experience building 
   
 <!-- Cloud Platforms -->
 <tr>
- <td><strong>☁️ Cloud Platforms</strong></td>
- <td>
-   <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-     <!-- Azure -->
-     <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
-     <img src="https://img.shields.io/badge/Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Data Factory" />
-     <img src="https://img.shields.io/badge/Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Synapse" />
-     <img src="https://img.shields.io/badge/DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white" alt="DevOps" />
-     <!-- AWS -->
-     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-     <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="EC2" />
-     <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="S3" />
-     <img src="https://img.shields.io/badge/Glue-F58536?style=flat-square&logo=amazonaws&logoColor=white" alt="Glue" />
-     <img src="https://img.shields.io/badge/Athena-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="Athena" />
-     <img src="https://img.shields.io/badge/Redshift-8C1C13?style=flat-square&logo=amazonredshift&logoColor=white" alt="Redshift" />
-     <!-- GCP -->
-     <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
-     <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white" alt="BigQuery" />
-     <img src="https://img.shields.io/badge/Pub%2FSub-34A853?style=flat-square&logo=googlecloud&logoColor=white" alt="Pub/Sub" />
-     <img src="https://img.shields.io/badge/Dataflow-FF6D01?style=flat-square&logo=googlecloud&logoColor=white" alt="Dataflow" />
-   </div>
- </td>
+  <td><strong>☁️ Cloud Platforms</strong></td>
+  <td>
+    <div style="display: flex; flex-direction: column; gap: 8px;">
+      <!-- Azure -->
+      <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+        <img src="https://img.shields.io/badge/Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Data Factory" />
+        <img src="https://img.shields.io/badge/Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Synapse" />
+        <img src="https://img.shields.io/badge/DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white" alt="DevOps" />
+      </div>
+      <!-- AWS -->
+      <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="EC2" />
+        <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="S3" />
+        <img src="https://img.shields.io/badge/Glue-F58536?style=flat-square&logo=amazonaws&logoColor=white" alt="Glue" />
+        <img src="https://img.shields.io/badge/Athena-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="Athena" />
+        <img src="https://img.shields.io/badge/Redshift-8C1C13?style=flat-square&logo=amazonredshift&logoColor=white" alt="Redshift" />
+      </div>
+      <!-- GCP -->
+      <div style="display: flex; flex-wrap: wrap; gap: 5px;">
+        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
+        <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white" alt="BigQuery" />
+        <img src="https://img.shields.io/badge/Pub%2FSub-34A853?style=flat-square&logo=googlecloud&logoColor=white" alt="Pub/Sub" />
+        <img src="https://img.shields.io/badge/Dataflow-FF6D01?style=flat-square&logo=googlecloud&logoColor=white" alt="Dataflow" />
+      </div>
+    </div>
+  </td>
 </tr>
 
   <!-- Programming -->

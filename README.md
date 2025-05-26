@@ -13,7 +13,7 @@
 
 I'm a passionate **Data Engineer** with over 3 years of experience building robust data pipelines, optimizing ETL workflows, and delivering real-time analytics solutions. I love transforming messy raw data into elegant, actionable insights.
 
-Currently wrapping up my Master’s in Data Science, I’ve led projects across education, sustainability, supply chain, and OCR systems. Whether it's building AI-enabled platforms or solving scheduling problems with constraint programming, I enjoy working at the intersection of **data, software, and optimization**.
+Currently wrapping up my Master’s in Data Science, I’ve led projects across education, sustainability, sports analytics, and social media NLP. Whether it's building AI-enabled platforms or solving scheduling problems with constraint programming, I enjoy working at the intersection of **data, software, and optimization**.
 
 🌟 **Actively seeking full-time roles** in Data Engineering, Analytics Engineering, or Cloud Data Solutions!
 
@@ -36,17 +36,33 @@ Currently wrapping up my Master’s in Data Science, I’ve led projects across 
 
 ## 📌 Project Highlights
 
-- 🧠 **Automated Class Scheduling (WMU)**  
-  Built with **Google OR-Tools** & **Streamlit**, automated scheduling for 200+ classes — reduced manual work by 85%.
+### 📊 **COVID-19 Data Engineering** (Jun 2024 – Jul 2024)
+- Built real-time data pipelines using Azure Data Factory and Kafka to ingest and process COVID-19 streams, boosting efficiency by 30% and prediction accuracy.
+- Designed metadata-driven pipelines for batch + streaming sources, cutting development time by 25%.
+- Integrated CI/CD with Azure DevOps and Azure Monitor, reducing release cycles by 35% and downtime by 20%.  
+**Tools:** ADF, Databricks, Kafka, Azure DevOps, Power BI, PySpark, SQL, Delta Lake
 
-- 🌱 **AI-Powered Sustainability Platform (Green Expectations)**  
-  Created backend and auth system, optimized NLP chatbot dataflow, improved recommendation accuracy by 35%.
+### 🏎️ **F1 Data Analytics** (May 2024 – Jun 2024)
+- Built ETL pipelines with Azure Synapse + Ergast API using PySpark for high-performance data processing.
+- Implemented schema enforcement, DQ checks, and Azure Monitor for production-grade analytics.  
+**Tools:** Azure Synapse, Databricks, Power BI, PySpark, SparkSQL
 
-- 🚚 **Supply Chain ETL Pipelines (Accenture)**  
-  Used ADF & Databricks to process raw data, halved transformation time, and boosted accuracy by 25%.
+### 🐦 **Twitter Sentiment Analysis** (Nov 2023 – Dec 2023)
+- Built an NLP pipeline with BiLSTM + GloVe embeddings to classify tweet sentiments.
+- Added word clouds, NER, and evaluation metrics for deeper insights and transparency.  
+**Tools:** Python, NLP, PyTorch, Deep Learning
 
-- 🔍 **OCR Image Pipeline (Claritrics)**  
-  Developed image-based ETL on Azure stack, improved text extraction by 30% and processing speed by 40%.
+### 🎬 **Netflix Data Engineering** (Feb 2025 – Mar 2025)
+- Developed layered data pipeline using ADF + Databricks + Delta Live Tables.
+- Implemented Bronze-Silver-Gold architecture and star schema for fast analytics.
+- Delivered Power BI dashboards powered by Synapse with secure Azure AD access.  
+**Tools:** ADF, Databricks, Delta Lake, Synapse, PySpark, Power BI
+
+### 🏅 **Tokyo Olympics Analytics** (Mar 2025 – Apr 2025)
+- Built scalable pipeline to process 500K+ athlete and medal records via ADF + PySpark.
+- Achieved 60% faster transformation for real-time country/event/medal insights.
+- Delivered interactive Power BI dashboards with deep visual storytelling.  
+**Tools:** ADF, Data Lake Gen2, Databricks, PySpark, Synapse, Power BI
 
 ---
 
@@ -61,4 +77,3 @@ Currently wrapping up my Master’s in Data Science, I’ve led projects across 
 ---
 
 💡 *Let’s transform data into insights, and insights into impact!*
-

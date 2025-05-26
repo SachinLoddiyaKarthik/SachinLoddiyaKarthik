@@ -104,8 +104,6 @@ I'm a highly skilled **Data Engineer** with **3+ years** of experience building 
 
 ## 🚀 Explore My Work
 
-<div align="center">
-
 ### 💼 Want to see my projects in action?
 
 **Visit my GitHub profile to explore my data engineering projects, analytics pipelines, and machine learning implementations!**
@@ -114,7 +112,6 @@ I'm a highly skilled **Data Engineer** with **3+ years** of experience building 
 
 **Featured Project Categories:**  
 
-</div>
 - 🏗️ **Data Engineering Pipelines** - Real-time & Batch Processing  
 - 📊 **Analytics Dashboards** - Interactive Visualizations & Insights  
 - 🤖 **Machine Learning Models** - NLP, Deep Learning & Predictive Analytics  

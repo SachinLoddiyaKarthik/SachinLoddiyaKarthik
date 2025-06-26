@@ -2,9 +2,9 @@
 
 <div align="center">
 
-🎓 **Data Science Graduate @ Western Michigan University** | 💼 **Data Engineer** | 🚀 **Cloud & Analytics Enthusiast**
+🎓 **Data Science Graduate @ Western Michigan University** | 💼 **Data Engineer** | 🚀 **Cloud & GenAI Enthusiast**
 
-[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Visit-orange?style=for-the-badge)](https://sachinloddiyakarthik.github.io/Portfolio-SLK) 
+[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-Visit-orange?style=for-the-badge)](https://sachinloddiyakarthik.github.io/Portfolio-SLK)
 [![Resume](https://img.shields.io/badge/Resume-Download-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://raw.githubusercontent.com/SachinLoddiyaKarthik/Portfolio-SLK/main/assets/Sachin_Resume.pdf)
 
 </div>
@@ -13,24 +13,74 @@
 
 ## 👨‍💻 About Me
 
-I'm a highly skilled **Data Engineer** with **3+ years** of experience building scalable data pipelines, optimizing ETL workflows, and designing real-time analytics platforms. Passionate about transforming complex data into business insights using **PySpark**, **SQL**, and cloud-native tools like **Azure** and **AWS**.
-
+I'm a highly skilled **Data Engineer** with **3+ years** of experience building scalable data pipelines, optimizing ETL workflows, and designing real-time analytics platforms. I am passionate about transforming complex data into business insights using **PySpark**, **SQL**, and cloud-native tools like **Azure** and **AWS**. I am now expanding my expertise into **Generative AI**, building intelligent applications with **LangChain** and **OpenAI**.
 
 🔧 **Strong background in big data, cloud engineering, and lakehouse architectures**
+
+🤖 **Skilled in developing GenAI applications, including conversational AI and document analysis systems**
 
 📊 **Proficient in building dashboards and real-time analytics with Power BI and Azure Synapse**
 
 🧠 **Enthusiastic about deep learning, NLP, and applying ML to real-world data problems**
 
-📍 **Open to relocation and full-time opportunities in Data Engineering, Analytics, and ML Engineering**
+📍 **Open to relocation and full-time opportunities in Data Engineering, Analytics, and ML/GenAI Engineering**
 
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">ATS Resume Expert</h3>
+      <div align="center">
+        <a href="https://github.com/SachinLoddiyaKarthik/ATS-Resume-Expert-System">
+          <img src="https://img.shields.io/badge/Project-View-blue?style=for-the-badge&logo=github" alt="View Project"/>
+        </a>
+      </div>
+      <p align="center">
+        An intelligent system to score and improve resumes against job descriptions, helping candidates optimize their applications for Applicant Tracking Systems (ATS).
+      </p>
+      <p align="center">
+        <code>Google Gemini Pro</code> <code>Streamlit</code> <code>Python</code>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Ask My PDF</h3>
+      <div align="center">
+        <a href="https://github.com/SachinLoddiyaKarthik/Ask-My-PDF">
+          <img src="https://img.shields.io/badge/Project-View-blue?style=for-the-badge&logo=github" alt="View Project"/>
+        </a>
+      </div>
+      <p align="center">
+        An interactive chat application that allows users to upload PDF documents and ask questions about their content, powered by large language models.
+      </p>
+      <p align="center">
+        <code>Google Gemini</code> <code>LangChain</code> <code>Streamlit</code> <code>Vector Stores</code>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Conversational AI Chatbot</h3>
+      <div align="center">
+        <a href="https://github.com/SachinLoddiyaKarthik/Conversational-AI-Chatbot-with-Langchain-and-OpenAI">
+          <img src="https://img.shields.io/badge/Project-View-blue?style=for-the-badge&logo=github" alt="View Project"/>
+        </a>
+      </div>
+      <p align="center">
+        A sophisticated chatbot built with LangChain and OpenAI, designed to engage in natural, context-aware conversations and maintain memory of the dialogue.
+      </p>
+      <p align="center">
+        <code>OpenAI</code> <code>LangChain</code> <code>Streamlit</code> <code>Python</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Technical Skills
 
 <table>
-  <!-- Data Engineering -->
   <tr>
     <td width="200"><strong>🛠️ Data Engineering</strong></td>
     <td>
@@ -42,19 +92,16 @@ I'm a highly skilled **Data Engineer** with **3+ years** of experience building 
     </td>
   </tr>
   
-<!-- Cloud Platforms -->
 <tr>
   <td><strong>☁️ Cloud Platforms</strong></td>
   <td>
     <div style="display: flex; flex-direction: column; gap: 8px;">
-      <!-- Azure -->
       <div style="display: flex; flex-wrap: wrap; gap: 5px;">
         <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
         <img src="https://img.shields.io/badge/Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Data Factory" />
         <img src="https://img.shields.io/badge/Synapse-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Synapse" />
         <img src="https://img.shields.io/badge/DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white" alt="DevOps" />
       </div>
-      <!-- AWS -->
       <div style="display: flex; flex-wrap: wrap; gap: 5px;">
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
         <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="EC2" />
@@ -63,7 +110,6 @@ I'm a highly skilled **Data Engineer** with **3+ years** of experience building 
         <img src="https://img.shields.io/badge/Athena-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="Athena" />
         <img src="https://img.shields.io/badge/Redshift-8C1C13?style=flat-square&logo=amazonredshift&logoColor=white" alt="Redshift" />
       </div>
-      <!-- GCP -->
       <div style="display: flex; flex-wrap: wrap; gap: 5px;">
         <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
         <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white" alt="BigQuery" />
@@ -74,7 +120,6 @@ I'm a highly skilled **Data Engineer** with **3+ years** of experience building 
   </td>
 </tr>
 
-  <!-- Programming -->
   <tr>
     <td><strong>💻 Programming</strong></td>
     <td>
@@ -90,7 +135,6 @@ I'm a highly skilled **Data Engineer** with **3+ years** of experience building 
     </td>
   </tr>
 
-  <!-- Databases -->
   <tr>
     <td><strong>🗄️ Databases</strong></td>
     <td>
@@ -103,7 +147,6 @@ I'm a highly skilled **Data Engineer** with **3+ years** of experience building 
     </td>
   </tr>
 
-  <!-- Visualization -->
   <tr>
     <td><strong>📊 Visualization</strong></td>
     <td>
@@ -115,10 +158,11 @@ I'm a highly skilled **Data Engineer** with **3+ years** of experience building 
     </td>
   </tr>
 
-  <!-- ML & Libraries -->
   <tr>
-    <td><strong>🧠 ML & Libraries</strong></td>
+    <td><strong>🧠 ML & GenAI</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/LangChain-8A2BE2?style=flat-square&logo=LangChain&logoColor=white" alt="LangChain"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
       <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit"/>
@@ -128,7 +172,6 @@ I'm a highly skilled **Data Engineer** with **3+ years** of experience building 
     </td>
   </tr>
 
-  <!-- Tools -->
   <tr>
     <td><strong>🧰 Tools</strong></td>
     <td>
@@ -147,9 +190,9 @@ I'm a highly skilled **Data Engineer** with **3+ years** of experience building 
 
 ## 🚀 Explore My Work
 
-### 💼 Want to see my projects in action?
+### 💼 Want to see more of my projects in action?
 
-**Visit my GitHub profile to explore my data engineering projects, analytics pipelines, and machine learning implementations!**
+**Visit my GitHub profile to explore my data engineering pipelines, analytics dashboards, and machine learning implementations!**
 
 <div align="center">
   <a href="https://github.com/SachinLoddiyaKarthik">
@@ -157,11 +200,9 @@ I'm a highly skilled **Data Engineer** with **3+ years** of experience building 
   </a>
 </div>
 
-**Featured Project Categories:**  
-
-- 🏗️ **Data Engineering Pipelines** - Real-time & Batch Processing  
+**Featured Project Categories:** - 🏗️ **Data Engineering Pipelines** - Real-time & Batch Processing  
+- 🤖 **Generative AI Applications** - Conversational AI, NLP, and RAG
 - 📊 **Analytics Dashboards** - Interactive Visualizations & Insights  
-- 🤖 **Machine Learning Models** - NLP, Deep Learning & Predictive Analytics  
 - ☁️ **Cloud Solutions** - Azure, AWS & GCP Implementations  
 
 ---

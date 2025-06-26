@@ -34,7 +34,7 @@ I'm a highly skilled **Data Engineer** with **3+ years** of experience building 
     <td width="33%" valign="top">
       <h3 align="center">ATS Resume Expert</h3>
       <div align="center">
-        <a href="https://github.com/SachinLoddiyaKarthik/ATS-Resume-Expert-System">
+        <a href="https://github.com/SachinLoddiyaKarthik/ats-resume-expert">
           <img src="https://img.shields.io/badge/Project-View-blue?style=for-the-badge&logo=github" alt="View Project"/>
         </a>
       </div>
@@ -48,7 +48,7 @@ I'm a highly skilled **Data Engineer** with **3+ years** of experience building 
     <td width="33%" valign="top">
       <h3 align="center">Ask My PDF</h3>
       <div align="center">
-        <a href="https://github.com/SachinLoddiyaKarthik/Ask-My-PDF">
+        <a href="https://github.com/SachinLoddiyaKarthik/ask-my-pdf">
           <img src="https://img.shields.io/badge/Project-View-blue?style=for-the-badge&logo=github" alt="View Project"/>
         </a>
       </div>
@@ -57,20 +57,6 @@ I'm a highly skilled **Data Engineer** with **3+ years** of experience building 
       </p>
       <p align="center">
         <code>Google Gemini</code> <code>LangChain</code> <code>Streamlit</code> <code>Vector Stores</code>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">Conversational AI Chatbot</h3>
-      <div align="center">
-        <a href="https://github.com/SachinLoddiyaKarthik/Conversational-AI-Chatbot-with-Langchain-and-OpenAI">
-          <img src="https://img.shields.io/badge/Project-View-blue?style=for-the-badge&logo=github" alt="View Project"/>
-        </a>
-      </div>
-      <p align="center">
-        A sophisticated chatbot built with LangChain and OpenAI, designed to engage in natural, context-aware conversations and maintain memory of the dialogue.
-      </p>
-      <p align="center">
-        <code>OpenAI</code> <code>LangChain</code> <code>Streamlit</code> <code>Python</code>
       </p>
     </td>
   </tr>

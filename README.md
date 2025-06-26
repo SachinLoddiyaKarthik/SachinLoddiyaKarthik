@@ -27,43 +27,6 @@ I'm a highly skilled **Data Engineer** with **3+ years** of experience building 
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">ATS Resume Expert</h3>
-      <div align="center">
-        <a href="https://github.com/SachinLoddiyaKarthik/ats-resume-expert">
-          <img src="https://img.shields.io/badge/Project-View-blue?style=for-the-badge&logo=github" alt="View Project"/>
-        </a>
-      </div>
-      <p align="center">
-        An intelligent system to score and improve resumes against job descriptions, helping candidates optimize their applications for Applicant Tracking Systems (ATS).
-      </p>
-      <p align="center">
-        <code>Google Gemini Pro</code> <code>Streamlit</code> <code>Python</code>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">Ask My PDF</h3>
-      <div align="center">
-        <a href="https://github.com/SachinLoddiyaKarthik/ask-my-pdf">
-          <img src="https://img.shields.io/badge/Project-View-blue?style=for-the-badge&logo=github" alt="View Project"/>
-        </a>
-      </div>
-      <p align="center">
-        An interactive chat application that allows users to upload PDF documents and ask questions about their content, powered by large language models.
-      </p>
-      <p align="center">
-        <code>Google Gemini</code> <code>LangChain</code> <code>Streamlit</code> <code>Vector Stores</code>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🚀 Technical Skills
 
 <table>

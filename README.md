@@ -144,8 +144,8 @@ I'm a highly skilled **Data Engineer** with **3+ years** of experience building 
 **Visit my GitHub profile to explore my data engineering pipelines, analytics dashboards, and machine learning implementations!**
 
 <div align="center">
-  <a href="https://github.com/SachinLoddiyaKarthik">
-    <img src="https://img.shields.io/badge/VISIT_MY_GITHUB-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub Profile">
+  <a href="https://github.com/SachinLoddiyaKarthik?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_My_Repositories-View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="Explore My Repositories">
   </a>
 </div>
 
